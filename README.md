@@ -1,7 +1,7 @@
 # Analyzing Risk Factors Associated  with Obesity/Overweight Using Machine Learning
 
 # MainProject
-# Analyzing Risk Factors Associated  with Obesity/Overweight Using Machine Learning
+
 
 ## Contributors:<br/>
 Vishveshwara M N<br/>
